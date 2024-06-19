@@ -10,13 +10,13 @@ Pod::Spec.new do |spec|
 
   spec.name         = "TestSDK"
   spec.version      = "0.0.1"
-  spec.summary      = "A short description of TestSDK."
+  spec.summary      = "TestSDK for test, no meaning"
 
   spec.description  = <<-DESC
-  this is test demo
+  this is test demo, dont use it, just for test.
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/TestSDK"
+  spec.homepage     = "https://github.com/LeoAiolia/TestSDK"
   spec.license      = "MIT"
   spec.author             = { "run" => "a936381813@163.com" }
 
